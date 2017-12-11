@@ -1,4 +1,4 @@
-##How to use
+## How to use
 
 * enable the mongodb php extension
 (you may need to download it first and edit the php.ini file)
